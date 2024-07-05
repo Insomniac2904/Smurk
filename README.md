@@ -4,16 +4,11 @@
 * ElectronJS, React, TailwindCSS
 
 ## Table of Contents
-
-- [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## Introduction
-
-Smurk is a powerful and easy-to-use tool designed to [briefly describe the main purpose of the project]. Whether you're a beginner or an expert, Smurk provides all the functionality you need to [describe the main functionality].
 
 ## Features
 
